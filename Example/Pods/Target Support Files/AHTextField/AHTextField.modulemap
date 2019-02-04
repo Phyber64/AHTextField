@@ -1,0 +1,6 @@
+framework module AHTextField {
+  umbrella header "AHTextField-umbrella.h"
+
+  export *
+  module * { export * }
+}

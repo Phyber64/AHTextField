@@ -1,0 +1,16 @@
+PODS:
+  - AHTextField (0.1.0)
+
+DEPENDENCIES:
+  - AHTextField (from `../`)
+
+EXTERNAL SOURCES:
+  AHTextField:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AHTextField: 025eba097673dbb6d5160368a768aef920aa833b
+
+PODFILE CHECKSUM: 6eed8e1cf9a369296a48c412925dc002d4184a02
+
+COCOAPODS: 1.5.3
