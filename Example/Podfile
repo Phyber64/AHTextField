@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AHTextField_Example' do
+  pod 'AHTextField', :path => '../'
+
+  target 'AHTextField_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
